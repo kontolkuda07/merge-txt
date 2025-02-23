@@ -5,6 +5,7 @@ Features:
 ✅ Preserve file order and separate contents with headers
 ✅ User-friendly console input for folder selection and output file name
 ✅ UTF-8 encoding support for compatibility with various text formats
+
 Usage:
 
     Run the script:
